@@ -2,4 +2,4 @@
 Primeira Aplicação na Aula da Alura
 
 O projeto sugerido na aula da Alura "Java: criando sua primeira aplicação" pareceu muito pequeno, e me atrevi a inserir coisas que não foram sugeridas na aula,
-para aumentar o conhecimento e o desafio. Existem limitações impostas no exemplo, para exercitar as muitas possibilidades do Java.
+para aumentar o conhecimento e o desafio. Existem limitações impostas no exemplo, para exercitar as muitas possibilidades do Java. Tem destaques em "//" para facilitar o entendimento nas alterações que eu fiz para não ficar confuso.
